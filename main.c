@@ -1,4 +1,4 @@
-/*
+
 #include <stdio.h>
 #include <string.h>
 struct std{
@@ -25,8 +25,8 @@ int main(void) {
   printf("%s",c1.nm);
   return 0;
 }
-*/
-/*
+
+
 #include <stdio.h>
 typedef struct student{
    char name[30],usn[10];
@@ -64,8 +64,8 @@ int main(){
 
 return 0;
 }
-*/
-/*
+
+
 #include <stdio.h>
 #include <stdlib.h>
 int main(){
@@ -91,7 +91,7 @@ int main(){
 fclose(p1);
 fclose(p2);
   return 0;
-}*/
+}
 
 #include <stdio.h>
 void main(){
